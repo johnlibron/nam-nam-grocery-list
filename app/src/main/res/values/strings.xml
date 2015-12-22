@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Grocery List</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_archive_list">Archive List</string>
+
+    <string-array name="unit_of_measures">
+        <item>Choose unit of measure</item>
+        <item>can</item>
+        <item>pound</item>
+        <item>pack</item>
+        <item>scoop</item>
+        <item>pc</item>
+        <item>cup</item>
+    </string-array>
+</resources>
