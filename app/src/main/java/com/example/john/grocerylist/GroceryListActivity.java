@@ -43,7 +43,7 @@ public class GroceryListActivity extends AppCompatActivity {
                         if (choose[which].equals("Choose from the Recipe")) {
                             Toast.makeText(view.getContext(), "Add Ingredients from recipe section!", Toast.LENGTH_SHORT).show();
                         } else if (choose[which].equals("Choose from the Ingredient")) {
-                            Toast.makeText(view.getContext(), "Add Ingredient from ingredients section!", Toast.LENGTH_SHORT).show();
+                            Toast.makeText(view.getContext(), "Add Ingredient section from ingredients section!", Toast.LENGTH_SHORT).show();
                             dialog.dismiss();
                         } else {
                             dialog.dismiss();
